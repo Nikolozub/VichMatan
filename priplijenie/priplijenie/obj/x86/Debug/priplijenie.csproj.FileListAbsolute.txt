@@ -1,0 +1,14 @@
+C:\Users\Николай\AppData\Local\Temporary Projects\priplijenie\bin\Debug\priplijenie.exe
+C:\Users\Николай\AppData\Local\Temporary Projects\priplijenie\bin\Debug\priplijenie.pdb
+C:\Users\Николай\AppData\Local\Temporary Projects\priplijenie\obj\x86\Debug\priplijenie.Form1.resources
+C:\Users\Николай\AppData\Local\Temporary Projects\priplijenie\obj\x86\Debug\priplijenie.Properties.Resources.resources
+C:\Users\Николай\AppData\Local\Temporary Projects\priplijenie\obj\x86\Debug\priplijenie.csproj.GenerateResource.Cache
+C:\Users\Николай\AppData\Local\Temporary Projects\priplijenie\obj\x86\Debug\priplijenie.exe
+C:\Users\Николай\AppData\Local\Temporary Projects\priplijenie\obj\x86\Debug\priplijenie.pdb
+c:\users\николай\documents\visual studio 2010\Projects\priplijenie\priplijenie\obj\x86\Debug\priplijenie.exe
+c:\users\николай\documents\visual studio 2010\Projects\priplijenie\priplijenie\obj\x86\Debug\priplijenie.pdb
+C:\Users\Николай\documents\visual studio 2010\Projects\priplijenie\priplijenie\bin\Debug\priplijenie.exe
+C:\Users\Николай\documents\visual studio 2010\Projects\priplijenie\priplijenie\bin\Debug\priplijenie.pdb
+C:\Users\Николай\documents\visual studio 2010\Projects\priplijenie\priplijenie\obj\x86\Debug\priplijenie.Form1.resources
+C:\Users\Николай\documents\visual studio 2010\Projects\priplijenie\priplijenie\obj\x86\Debug\priplijenie.Properties.Resources.resources
+C:\Users\Николай\documents\visual studio 2010\Projects\priplijenie\priplijenie\obj\x86\Debug\priplijenie.csproj.GenerateResource.Cache
